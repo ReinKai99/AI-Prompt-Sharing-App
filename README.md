@@ -1,4 +1,3 @@
-![image](https://github.com/ReinKai99/AI-Prompt-Sharing/assets/75959883/d672cb30-d9a4-4d7d-874f-674f2a0be0bf)
 
 <div align="center">
   
@@ -11,7 +10,7 @@
   <h3 align="center">Next.js 14 AI Prompt Sharing Application</h3>
 </div>
 
-![AI Prompt Sharing Website(1)](https://github.com/ReinKai99/AI-Prompt-Sharing/assets/75959883/6f691bf5-a7c4-4a66-8e6b-0af41ef29fe3)
+![AI Prompt Sharing Website(1)](https://github.com/ReinKai99/AI-Prompt-Sharing-App/assets/75959883/c329d41b-d362-4487-98b3-ba93cd527175)
 
 ## <a name="quick-start">🤸 Quick Start</a>
 
